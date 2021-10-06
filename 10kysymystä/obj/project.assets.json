@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\manni\\source\\repos\\10kysymystä\\10kysymystä\\10kysymystä.csproj",
+      "projectUniqueName": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\10kysymystä\\10kysymystä.csproj",
       "projectName": "10kysymystä",
-      "projectPath": "C:\\Users\\manni\\source\\repos\\10kysymystä\\10kysymystä\\10kysymystä.csproj",
+      "projectPath": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\10kysymystä\\10kysymystä.csproj",
       "packagesPath": "C:\\Users\\manni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\manni\\source\\repos\\10kysymystä\\10kysymystä\\obj\\",
+      "outputPath": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\10kysymystä\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manni\\AppData\\Roaming\\NuGet\\NuGet.Config",

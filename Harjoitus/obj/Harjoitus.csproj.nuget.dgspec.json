@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Harjoitus\\Harjoitus\\Harjoitus.csproj": {}
+    "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\Harjoitus\\Harjoitus.csproj": {}
   },
   "projects": {
-    "F:\\Harjoitus\\Harjoitus\\Harjoitus.csproj": {
+    "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\Harjoitus\\Harjoitus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Harjoitus\\Harjoitus\\Harjoitus.csproj",
+        "projectUniqueName": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\Harjoitus\\Harjoitus.csproj",
         "projectName": "Harjoitus",
-        "projectPath": "F:\\Harjoitus\\Harjoitus\\Harjoitus.csproj",
+        "projectPath": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\Harjoitus\\Harjoitus.csproj",
         "packagesPath": "C:\\Users\\manni\\.nuget\\packages\\",
-        "outputPath": "F:\\Harjoitus\\Harjoitus\\obj\\",
+        "outputPath": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\Harjoitus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manni\\AppData\\Roaming\\NuGet\\NuGet.Config",

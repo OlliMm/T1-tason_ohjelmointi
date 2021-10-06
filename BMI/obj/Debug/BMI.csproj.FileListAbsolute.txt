@@ -8,3 +8,13 @@ C:\Users\olli.manninen\source\repos\BMI\BMI\obj\Debug\BMI.csproj.GenerateResourc
 C:\Users\olli.manninen\source\repos\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
 C:\Users\olli.manninen\source\repos\BMI\BMI\obj\Debug\BMI.exe
 C:\Users\olli.manninen\source\repos\BMI\BMI\obj\Debug\BMI.pdb
+C:\Users\manni\source\repos\T1-tason_ohjelmointi\BMI\bin\Debug\BMI.exe.config
+C:\Users\manni\source\repos\T1-tason_ohjelmointi\BMI\bin\Debug\BMI.exe
+C:\Users\manni\source\repos\T1-tason_ohjelmointi\BMI\bin\Debug\BMI.pdb
+C:\Users\manni\source\repos\T1-tason_ohjelmointi\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+C:\Users\manni\source\repos\T1-tason_ohjelmointi\BMI\obj\Debug\BMI.Form1.resources
+C:\Users\manni\source\repos\T1-tason_ohjelmointi\BMI\obj\Debug\BMI.Properties.Resources.resources
+C:\Users\manni\source\repos\T1-tason_ohjelmointi\BMI\obj\Debug\BMI.csproj.GenerateResource.cache
+C:\Users\manni\source\repos\T1-tason_ohjelmointi\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\T1-tason_ohjelmointi\BMI\obj\Debug\BMI.exe
+C:\Users\manni\source\repos\T1-tason_ohjelmointi\BMI\obj\Debug\BMI.pdb

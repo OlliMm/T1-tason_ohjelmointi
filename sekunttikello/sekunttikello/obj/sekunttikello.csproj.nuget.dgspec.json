@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manni\\source\\repos\\sekunttikello\\sekunttikello\\sekunttikello.csproj": {}
+    "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\sekunttikello\\sekunttikello\\sekunttikello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manni\\source\\repos\\sekunttikello\\sekunttikello\\sekunttikello.csproj": {
+    "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\sekunttikello\\sekunttikello\\sekunttikello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manni\\source\\repos\\sekunttikello\\sekunttikello\\sekunttikello.csproj",
+        "projectUniqueName": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\sekunttikello\\sekunttikello\\sekunttikello.csproj",
         "projectName": "sekunttikello",
-        "projectPath": "C:\\Users\\manni\\source\\repos\\sekunttikello\\sekunttikello\\sekunttikello.csproj",
+        "projectPath": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\sekunttikello\\sekunttikello\\sekunttikello.csproj",
         "packagesPath": "C:\\Users\\manni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manni\\source\\repos\\sekunttikello\\sekunttikello\\obj\\",
+        "outputPath": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\sekunttikello\\sekunttikello\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manni\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi-main\\Nelilaskin 3\\Nelilaskin 3.csproj": {}
+    "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\Nelilaskin3\\Nelilaskin 3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi-main\\Nelilaskin 3\\Nelilaskin 3.csproj": {
+    "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\Nelilaskin3\\Nelilaskin 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi-main\\Nelilaskin 3\\Nelilaskin 3.csproj",
+        "projectUniqueName": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\Nelilaskin3\\Nelilaskin 3.csproj",
         "projectName": "Nelilaskin 3",
-        "projectPath": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi-main\\Nelilaskin 3\\Nelilaskin 3.csproj",
+        "projectPath": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\Nelilaskin3\\Nelilaskin 3.csproj",
         "packagesPath": "C:\\Users\\manni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi-main\\Nelilaskin 3\\obj\\",
+        "outputPath": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\Nelilaskin3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manni\\AppData\\Roaming\\NuGet\\NuGet.Config",

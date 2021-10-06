@@ -8,3 +8,13 @@ C:\Users\olli.manninen\source\repos\autokululaskuri\autokululaskuri\bin\Debug\au
 C:\Users\olli.manninen\source\repos\autokululaskuri\autokululaskuri\bin\Debug\autokululaskuri.pdb
 C:\Users\olli.manninen\source\repos\autokululaskuri\autokululaskuri\obj\Debug\autokululaskuri.exe
 C:\Users\olli.manninen\source\repos\autokululaskuri\autokululaskuri\obj\Debug\autokululaskuri.pdb
+C:\Users\manni\source\repos\T1-tason_ohjelmointi\autokululaskuri\bin\Debug\autokululaskuri.exe.config
+C:\Users\manni\source\repos\T1-tason_ohjelmointi\autokululaskuri\bin\Debug\autokululaskuri.exe
+C:\Users\manni\source\repos\T1-tason_ohjelmointi\autokululaskuri\bin\Debug\autokululaskuri.pdb
+C:\Users\manni\source\repos\T1-tason_ohjelmointi\autokululaskuri\obj\Debug\autokululaskuri.csproj.AssemblyReference.cache
+C:\Users\manni\source\repos\T1-tason_ohjelmointi\autokululaskuri\obj\Debug\autokululaskuri.Form1.resources
+C:\Users\manni\source\repos\T1-tason_ohjelmointi\autokululaskuri\obj\Debug\autokululaskuri.Properties.Resources.resources
+C:\Users\manni\source\repos\T1-tason_ohjelmointi\autokululaskuri\obj\Debug\autokululaskuri.csproj.GenerateResource.cache
+C:\Users\manni\source\repos\T1-tason_ohjelmointi\autokululaskuri\obj\Debug\autokululaskuri.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\T1-tason_ohjelmointi\autokululaskuri\obj\Debug\autokululaskuri.exe
+C:\Users\manni\source\repos\T1-tason_ohjelmointi\autokululaskuri\obj\Debug\autokululaskuri.pdb

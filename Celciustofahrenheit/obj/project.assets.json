@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\manni\\source\\repos\\Celciustofahrenheit\\Celciustofahrenheit\\Celciustofahrenheit.csproj",
+      "projectUniqueName": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\Celciustofahrenheit\\Celciustofahrenheit.csproj",
       "projectName": "Celciustofahrenheit",
-      "projectPath": "C:\\Users\\manni\\source\\repos\\Celciustofahrenheit\\Celciustofahrenheit\\Celciustofahrenheit.csproj",
+      "projectPath": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\Celciustofahrenheit\\Celciustofahrenheit.csproj",
       "packagesPath": "C:\\Users\\manni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\manni\\source\\repos\\Celciustofahrenheit\\Celciustofahrenheit\\obj\\",
+      "outputPath": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\Celciustofahrenheit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manni\\AppData\\Roaming\\NuGet\\NuGet.Config",

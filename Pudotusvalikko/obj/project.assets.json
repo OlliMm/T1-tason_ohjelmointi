@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi-main\\Pudotusvalikko\\Pudotusvalikko.csproj",
+      "projectUniqueName": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\Pudotusvalikko\\Pudotusvalikko.csproj",
       "projectName": "Pudotusvalikko",
-      "projectPath": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi-main\\Pudotusvalikko\\Pudotusvalikko.csproj",
+      "projectPath": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\Pudotusvalikko\\Pudotusvalikko.csproj",
       "packagesPath": "C:\\Users\\manni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi-main\\Pudotusvalikko\\obj\\",
+      "outputPath": "C:\\Users\\manni\\source\\repos\\T1-tason_ohjelmointi\\Pudotusvalikko\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manni\\AppData\\Roaming\\NuGet\\NuGet.Config",
