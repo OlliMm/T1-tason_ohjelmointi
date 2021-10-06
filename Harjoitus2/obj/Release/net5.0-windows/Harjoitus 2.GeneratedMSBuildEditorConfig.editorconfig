@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Harjoitus_2
+build_property.ProjectDir = C:\Users\manni\Source\Repos\OlliMm\T1-tason_ohjelmointi\Harjoitus 2\Harjoitus 2\

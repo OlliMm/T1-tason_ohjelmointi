@@ -1,0 +1,10 @@
+C:\Users\olli.manninen\source\repos\kahvio\kahvio\obj\Debug\kahvio.csprojAssemblyReference.cache
+C:\Users\olli.manninen\source\repos\kahvio\kahvio\obj\Debug\kahvio.RuokalistaForm.resources
+C:\Users\olli.manninen\source\repos\kahvio\kahvio\obj\Debug\kahvio.Properties.Resources.resources
+C:\Users\olli.manninen\source\repos\kahvio\kahvio\obj\Debug\kahvio.csproj.GenerateResource.cache
+C:\Users\olli.manninen\source\repos\kahvio\kahvio\obj\Debug\kahvio.csproj.CoreCompileInputs.cache
+C:\Users\olli.manninen\source\repos\kahvio\kahvio\bin\Debug\kahvio.exe.config
+C:\Users\olli.manninen\source\repos\kahvio\kahvio\bin\Debug\kahvio.exe
+C:\Users\olli.manninen\source\repos\kahvio\kahvio\bin\Debug\kahvio.pdb
+C:\Users\olli.manninen\source\repos\kahvio\kahvio\obj\Debug\kahvio.exe
+C:\Users\olli.manninen\source\repos\kahvio\kahvio\obj\Debug\kahvio.pdb

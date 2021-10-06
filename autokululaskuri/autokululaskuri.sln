@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autokululaskuri", "autokululaskuri\autokululaskuri.csproj", "{CC3C2CE7-8249-4C79-9F4C-52B8BA535B7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC3C2CE7-8249-4C79-9F4C-52B8BA535B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3C2CE7-8249-4C79-9F4C-52B8BA535B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3C2CE7-8249-4C79-9F4C-52B8BA535B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3C2CE7-8249-4C79-9F4C-52B8BA535B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D409D86-D9B4-461B-A98E-6553AD534A9E}
+	EndGlobalSection
+EndGlobal

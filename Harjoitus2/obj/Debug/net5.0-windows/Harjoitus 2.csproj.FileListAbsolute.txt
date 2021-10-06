@@ -1,0 +1,17 @@
+F:\Harjoitus 2\Harjoitus 2\obj\Debug\net5.0-windows\Harjoitus_2.Form1.resources
+F:\Harjoitus 2\Harjoitus 2\obj\Debug\net5.0-windows\Harjoitus 2.csproj.GenerateResource.cache
+F:\Harjoitus 2\Harjoitus 2\obj\Debug\net5.0-windows\Harjoitus 2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Harjoitus 2\Harjoitus 2\obj\Debug\net5.0-windows\Harjoitus 2.AssemblyInfoInputs.cache
+F:\Harjoitus 2\Harjoitus 2\obj\Debug\net5.0-windows\Harjoitus 2.AssemblyInfo.cs
+F:\Harjoitus 2\Harjoitus 2\obj\Debug\net5.0-windows\Harjoitus 2.csproj.CoreCompileInputs.cache
+F:\Harjoitus 2\Harjoitus 2\bin\Debug\net5.0-windows\Harjoitus 2.exe
+F:\Harjoitus 2\Harjoitus 2\bin\Debug\net5.0-windows\Harjoitus 2.deps.json
+F:\Harjoitus 2\Harjoitus 2\bin\Debug\net5.0-windows\Harjoitus 2.runtimeconfig.json
+F:\Harjoitus 2\Harjoitus 2\bin\Debug\net5.0-windows\Harjoitus 2.runtimeconfig.dev.json
+F:\Harjoitus 2\Harjoitus 2\bin\Debug\net5.0-windows\Harjoitus 2.dll
+F:\Harjoitus 2\Harjoitus 2\bin\Debug\net5.0-windows\ref\Harjoitus 2.dll
+F:\Harjoitus 2\Harjoitus 2\bin\Debug\net5.0-windows\Harjoitus 2.pdb
+F:\Harjoitus 2\Harjoitus 2\obj\Debug\net5.0-windows\Harjoitus 2.dll
+F:\Harjoitus 2\Harjoitus 2\obj\Debug\net5.0-windows\ref\Harjoitus 2.dll
+F:\Harjoitus 2\Harjoitus 2\obj\Debug\net5.0-windows\Harjoitus 2.pdb
+F:\Harjoitus 2\Harjoitus 2\obj\Debug\net5.0-windows\Harjoitus 2.genruntimeconfig.cache

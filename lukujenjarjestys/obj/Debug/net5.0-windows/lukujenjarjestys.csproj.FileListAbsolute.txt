@@ -1,0 +1,7 @@
+C:\Users\manni\source\repos\lukujenjarjestys\lukujenjarjestys\obj\Debug\net5.0-windows\lukujenjarjestys.csproj.AssemblyReference.cache
+C:\Users\manni\source\repos\lukujenjarjestys\lukujenjarjestys\obj\Debug\net5.0-windows\lukujenjarjestys.Form1.resources
+C:\Users\manni\source\repos\lukujenjarjestys\lukujenjarjestys\obj\Debug\net5.0-windows\lukujenjarjestys.csproj.GenerateResource.cache
+C:\Users\manni\source\repos\lukujenjarjestys\lukujenjarjestys\obj\Debug\net5.0-windows\lukujenjarjestys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\lukujenjarjestys\lukujenjarjestys\obj\Debug\net5.0-windows\lukujenjarjestys.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\lukujenjarjestys\lukujenjarjestys\obj\Debug\net5.0-windows\lukujenjarjestys.AssemblyInfo.cs
+C:\Users\manni\source\repos\lukujenjarjestys\lukujenjarjestys\obj\Debug\net5.0-windows\lukujenjarjestys.csproj.CoreCompileInputs.cache

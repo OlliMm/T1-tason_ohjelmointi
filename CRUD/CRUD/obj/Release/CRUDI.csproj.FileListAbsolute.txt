@@ -1,0 +1,5 @@
+C:\Users\manni\source\repos\CRUD\CRUD\obj\Release\CRUDI.csproj.AssemblyReference.cache
+C:\Users\manni\source\repos\CRUD\CRUD\obj\Release\CRUD.Form1.resources
+C:\Users\manni\source\repos\CRUD\CRUD\obj\Release\CRUD.Properties.Resources.resources
+C:\Users\manni\source\repos\CRUD\CRUD\obj\Release\CRUDI.csproj.GenerateResource.cache
+C:\Users\manni\source\repos\CRUD\CRUD\obj\Release\CRUDI.csproj.CoreCompileInputs.cache

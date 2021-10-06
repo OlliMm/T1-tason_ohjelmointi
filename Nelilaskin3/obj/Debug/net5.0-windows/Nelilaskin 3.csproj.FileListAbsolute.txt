@@ -1,0 +1,36 @@
+C:\Users\manni\source\repos\Nelilaskin 3\Nelilaskin 3\bin\Debug\net5.0-windows\Nelilaskin 3.exe
+C:\Users\manni\source\repos\Nelilaskin 3\Nelilaskin 3\bin\Debug\net5.0-windows\Nelilaskin 3.deps.json
+C:\Users\manni\source\repos\Nelilaskin 3\Nelilaskin 3\bin\Debug\net5.0-windows\Nelilaskin 3.runtimeconfig.json
+C:\Users\manni\source\repos\Nelilaskin 3\Nelilaskin 3\bin\Debug\net5.0-windows\Nelilaskin 3.runtimeconfig.dev.json
+C:\Users\manni\source\repos\Nelilaskin 3\Nelilaskin 3\bin\Debug\net5.0-windows\Nelilaskin 3.dll
+C:\Users\manni\source\repos\Nelilaskin 3\Nelilaskin 3\bin\Debug\net5.0-windows\ref\Nelilaskin 3.dll
+C:\Users\manni\source\repos\Nelilaskin 3\Nelilaskin 3\bin\Debug\net5.0-windows\Nelilaskin 3.pdb
+C:\Users\manni\source\repos\Nelilaskin 3\Nelilaskin 3\obj\Debug\net5.0-windows\Nelilaskin 3.csproj.AssemblyReference.cache
+C:\Users\manni\source\repos\Nelilaskin 3\Nelilaskin 3\obj\Debug\net5.0-windows\Nelilaskin_3.Form1.resources
+C:\Users\manni\source\repos\Nelilaskin 3\Nelilaskin 3\obj\Debug\net5.0-windows\Nelilaskin 3.csproj.GenerateResource.cache
+C:\Users\manni\source\repos\Nelilaskin 3\Nelilaskin 3\obj\Debug\net5.0-windows\Nelilaskin 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\Nelilaskin 3\Nelilaskin 3\obj\Debug\net5.0-windows\Nelilaskin 3.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\Nelilaskin 3\Nelilaskin 3\obj\Debug\net5.0-windows\Nelilaskin 3.AssemblyInfo.cs
+C:\Users\manni\source\repos\Nelilaskin 3\Nelilaskin 3\obj\Debug\net5.0-windows\Nelilaskin 3.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\Nelilaskin 3\Nelilaskin 3\obj\Debug\net5.0-windows\Nelilaskin 3.dll
+C:\Users\manni\source\repos\Nelilaskin 3\Nelilaskin 3\obj\Debug\net5.0-windows\ref\Nelilaskin 3.dll
+C:\Users\manni\source\repos\Nelilaskin 3\Nelilaskin 3\obj\Debug\net5.0-windows\Nelilaskin 3.pdb
+C:\Users\manni\source\repos\Nelilaskin 3\Nelilaskin 3\obj\Debug\net5.0-windows\Nelilaskin 3.genruntimeconfig.cache
+C:\Users\manni\source\repos\T1-tason_ohjelmointi-main\Nelilaskin 3\bin\Debug\net5.0-windows\Nelilaskin 3.exe
+C:\Users\manni\source\repos\T1-tason_ohjelmointi-main\Nelilaskin 3\bin\Debug\net5.0-windows\Nelilaskin 3.deps.json
+C:\Users\manni\source\repos\T1-tason_ohjelmointi-main\Nelilaskin 3\bin\Debug\net5.0-windows\Nelilaskin 3.runtimeconfig.json
+C:\Users\manni\source\repos\T1-tason_ohjelmointi-main\Nelilaskin 3\bin\Debug\net5.0-windows\Nelilaskin 3.runtimeconfig.dev.json
+C:\Users\manni\source\repos\T1-tason_ohjelmointi-main\Nelilaskin 3\bin\Debug\net5.0-windows\Nelilaskin 3.dll
+C:\Users\manni\source\repos\T1-tason_ohjelmointi-main\Nelilaskin 3\bin\Debug\net5.0-windows\ref\Nelilaskin 3.dll
+C:\Users\manni\source\repos\T1-tason_ohjelmointi-main\Nelilaskin 3\bin\Debug\net5.0-windows\Nelilaskin 3.pdb
+C:\Users\manni\source\repos\T1-tason_ohjelmointi-main\Nelilaskin 3\obj\Debug\net5.0-windows\Nelilaskin 3.csproj.AssemblyReference.cache
+C:\Users\manni\source\repos\T1-tason_ohjelmointi-main\Nelilaskin 3\obj\Debug\net5.0-windows\Nelilaskin_3.Form1.resources
+C:\Users\manni\source\repos\T1-tason_ohjelmointi-main\Nelilaskin 3\obj\Debug\net5.0-windows\Nelilaskin 3.csproj.GenerateResource.cache
+C:\Users\manni\source\repos\T1-tason_ohjelmointi-main\Nelilaskin 3\obj\Debug\net5.0-windows\Nelilaskin 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\T1-tason_ohjelmointi-main\Nelilaskin 3\obj\Debug\net5.0-windows\Nelilaskin 3.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\T1-tason_ohjelmointi-main\Nelilaskin 3\obj\Debug\net5.0-windows\Nelilaskin 3.AssemblyInfo.cs
+C:\Users\manni\source\repos\T1-tason_ohjelmointi-main\Nelilaskin 3\obj\Debug\net5.0-windows\Nelilaskin 3.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\T1-tason_ohjelmointi-main\Nelilaskin 3\obj\Debug\net5.0-windows\Nelilaskin 3.dll
+C:\Users\manni\source\repos\T1-tason_ohjelmointi-main\Nelilaskin 3\obj\Debug\net5.0-windows\ref\Nelilaskin 3.dll
+C:\Users\manni\source\repos\T1-tason_ohjelmointi-main\Nelilaskin 3\obj\Debug\net5.0-windows\Nelilaskin 3.pdb
+C:\Users\manni\source\repos\T1-tason_ohjelmointi-main\Nelilaskin 3\obj\Debug\net5.0-windows\Nelilaskin 3.genruntimeconfig.cache

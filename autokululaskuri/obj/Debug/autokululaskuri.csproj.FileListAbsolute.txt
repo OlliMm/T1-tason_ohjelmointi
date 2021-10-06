@@ -1,0 +1,10 @@
+C:\Users\olli.manninen\source\repos\autokululaskuri\autokululaskuri\obj\Debug\autokululaskuri.csprojAssemblyReference.cache
+C:\Users\olli.manninen\source\repos\autokululaskuri\autokululaskuri\obj\Debug\autokululaskuri.Form1.resources
+C:\Users\olli.manninen\source\repos\autokululaskuri\autokululaskuri\obj\Debug\autokululaskuri.Properties.Resources.resources
+C:\Users\olli.manninen\source\repos\autokululaskuri\autokululaskuri\obj\Debug\autokululaskuri.csproj.GenerateResource.cache
+C:\Users\olli.manninen\source\repos\autokululaskuri\autokululaskuri\obj\Debug\autokululaskuri.csproj.CoreCompileInputs.cache
+C:\Users\olli.manninen\source\repos\autokululaskuri\autokululaskuri\bin\Debug\autokululaskuri.exe.config
+C:\Users\olli.manninen\source\repos\autokululaskuri\autokululaskuri\bin\Debug\autokululaskuri.exe
+C:\Users\olli.manninen\source\repos\autokululaskuri\autokululaskuri\bin\Debug\autokululaskuri.pdb
+C:\Users\olli.manninen\source\repos\autokululaskuri\autokululaskuri\obj\Debug\autokululaskuri.exe
+C:\Users\olli.manninen\source\repos\autokululaskuri\autokululaskuri\obj\Debug\autokululaskuri.pdb
