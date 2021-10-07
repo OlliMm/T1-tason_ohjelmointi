@@ -1,0 +1,6 @@
+C:\Users\olli.manninen\Downloads\T1-tason_ohjelmointi-main\T1-tason_ohjelmointi-main\CRUD\CRUD\obj\Debug\CRUDI.csprojAssemblyReference.cache
+C:\Users\olli.manninen\Downloads\T1-tason_ohjelmointi-main\T1-tason_ohjelmointi-main\CRUD\CRUD\obj\Debug\CRUD.exe.config
+C:\Users\olli.manninen\Downloads\T1-tason_ohjelmointi-main\T1-tason_ohjelmointi-main\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\olli.manninen\Downloads\T1-tason_ohjelmointi-main\T1-tason_ohjelmointi-main\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\olli.manninen\Downloads\T1-tason_ohjelmointi-main\T1-tason_ohjelmointi-main\CRUD\CRUD\obj\Debug\CRUDI.csproj.GenerateResource.cache
+C:\Users\olli.manninen\Downloads\T1-tason_ohjelmointi-main\T1-tason_ohjelmointi-main\CRUD\CRUD\obj\Debug\CRUDI.csproj.CoreCompileInputs.cache
