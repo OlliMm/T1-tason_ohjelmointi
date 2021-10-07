@@ -36,7 +36,7 @@ namespace nimitehtävä
                 laskurip++;
             }
 
-            foreach (string friidu in pojat)
+            foreach (string friidu in tytot)
             {
                 if (nimi == friidu)
                 {
