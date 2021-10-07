@@ -10,7 +10,7 @@ namespace CRUD
 {
     class Yhdista
     {
-        private MySqlConnection yhteys = new MySqlConnection("datasource=localhost; port=3306;username=root;password=;database=opiskelijat");
+        private MySqlConnection yhteys = new MySqlConnection("datasource=localhost; port=3306;username=root;password=;database=opiskelijat;SSL Mode = None");
 
         public MySqlConnection otaYhteys()
         {

@@ -128,5 +128,36 @@ namespace CRUD
             }
             TyhjennaBT.PerformClick();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            String enimi = EnimiTB.Text;
+            String snimi = SnimiTB.Text;
+            String puhelin = PuhTB.Text;
+            String email = EmailTB.Text;
+            int oNro = Int32.Parse(ONroTB.Text);
+            int oid = Int32.Parse(IdTB.Text);
+
+            if (enimi.Trim().Equals("") || snimi.Trim().Equals("") || puhelin.Trim().Equals("") || email.Trim().Equals("") || oNro.Equals(""))
+            {
+                MessageBox.Show("VIRHE - täytä kentät", "tyhjä kenttä", MessageBoxButtons.OK, MessageBoxIcon.Error);
+
+            }
+            else
+            {
+                Boolean lisaAsiakas = opiskelija.muokkaaOpiskelijaa(oid, enimi, snimi, puhelin, email, oNro);
+                if (lisaAsiakas)
+                {
+                    MessageBox.Show(" opiskelia päivitetty", "Opiskelijan päivitys", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                }
+                else
+                {
+                    MessageBox.Show("opiskeliaa ei pystytty päivittämään", "Opiskelijan päivitys", MessageBoxButtons.OK, MessageBoxIcon.Error);
+
+                }
+            }
+            TietotauluDG.DataSource = opiskelija.haeOpiskelijat();
+        }
     }
 }
