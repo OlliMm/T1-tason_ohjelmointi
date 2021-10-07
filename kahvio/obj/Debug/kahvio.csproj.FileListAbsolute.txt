@@ -18,3 +18,13 @@ C:\Users\manni\source\repos\T1-tason_ohjelmointi\kahvio\obj\Debug\kahvio.csproj.
 C:\Users\manni\source\repos\T1-tason_ohjelmointi\kahvio\obj\Debug\kahvio.csproj.CoreCompileInputs.cache
 C:\Users\manni\source\repos\T1-tason_ohjelmointi\kahvio\obj\Debug\kahvio.exe
 C:\Users\manni\source\repos\T1-tason_ohjelmointi\kahvio\obj\Debug\kahvio.pdb
+C:\Users\olli.manninen\source\repos\T1-tason_ohjelmointi\kahvio\bin\Debug\kahvio.exe.config
+C:\Users\olli.manninen\source\repos\T1-tason_ohjelmointi\kahvio\bin\Debug\kahvio.exe
+C:\Users\olli.manninen\source\repos\T1-tason_ohjelmointi\kahvio\bin\Debug\kahvio.pdb
+C:\Users\olli.manninen\source\repos\T1-tason_ohjelmointi\kahvio\obj\Debug\kahvio.csprojAssemblyReference.cache
+C:\Users\olli.manninen\source\repos\T1-tason_ohjelmointi\kahvio\obj\Debug\kahvio.RuokalistaForm.resources
+C:\Users\olli.manninen\source\repos\T1-tason_ohjelmointi\kahvio\obj\Debug\kahvio.Properties.Resources.resources
+C:\Users\olli.manninen\source\repos\T1-tason_ohjelmointi\kahvio\obj\Debug\kahvio.csproj.GenerateResource.cache
+C:\Users\olli.manninen\source\repos\T1-tason_ohjelmointi\kahvio\obj\Debug\kahvio.csproj.CoreCompileInputs.cache
+C:\Users\olli.manninen\source\repos\T1-tason_ohjelmointi\kahvio\obj\Debug\kahvio.exe
+C:\Users\olli.manninen\source\repos\T1-tason_ohjelmointi\kahvio\obj\Debug\kahvio.pdb

@@ -14,6 +14,7 @@ namespace CRUD
 {
     public partial class Form1 : Form
     {
+        OPISKELIJA opiskelija = new OPISKELIJA();
         public Form1()
         {
             InitializeComponent();
@@ -53,7 +54,7 @@ namespace CRUD
             }
             else
             {
-                Boolean lisaAsiakas = opiskelija.lisaOpiskelija(enimi, snimi, puhelin, email, oNro);
+                Boolean lisaAsiakas = opiskelija.lisaaOpiskelija(enimi, snimi, puhelin, email, oNro);
                 if (lisaAsiakas)
                 {
                     MessageBox.Show("Uusi opiskelia lisätty", "Opiskelijan lisäys", MessageBoxButtons.OK, MessageBoxIcon.Information);

@@ -30,17 +30,11 @@
         {
             this.VasenPL = new System.Windows.Forms.Panel();
             this.panel5 = new System.Windows.Forms.Panel();
-            this.koriBT = new System.Windows.Forms.Button();
             this.panel4 = new System.Windows.Forms.Panel();
-            this.herkutBT = new System.Windows.Forms.Button();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.juomatBT = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.ruoatBT = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.meistaBT = new System.Windows.Forms.Button();
             this.YlaPL = new System.Windows.Forms.Panel();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
             this.meistaPL = new System.Windows.Forms.Panel();
             this.meistaLB = new System.Windows.Forms.Label();
@@ -61,19 +55,27 @@
             this.label10 = new System.Windows.Forms.Label();
             this.koriPL = new System.Windows.Forms.Panel();
             this.label14 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.exitBT = new System.Windows.Forms.Button();
+            this.koriBT = new System.Windows.Forms.Button();
+            this.herkutBT = new System.Windows.Forms.Button();
+            this.juomatBT = new System.Windows.Forms.Button();
+            this.ruoatBT = new System.Windows.Forms.Button();
+            this.meistaBT = new System.Windows.Forms.Button();
             this.VasenPL.SuspendLayout();
             this.YlaPL.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.meistaPL.SuspendLayout();
             this.ruoatPL.SuspendLayout();
             this.juomatPL.SuspendLayout();
             this.herkutPL.SuspendLayout();
             this.koriPL.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // VasenPL
             // 
             this.VasenPL.BackColor = System.Drawing.Color.Green;
+            this.VasenPL.Controls.Add(this.exitBT);
             this.VasenPL.Controls.Add(this.panel5);
             this.VasenPL.Controls.Add(this.koriBT);
             this.VasenPL.Controls.Add(this.panel4);
@@ -98,21 +100,6 @@
             this.panel5.Size = new System.Drawing.Size(10, 40);
             this.panel5.TabIndex = 7;
             // 
-            // koriBT
-            // 
-            this.koriBT.FlatAppearance.BorderSize = 0;
-            this.koriBT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.koriBT.ForeColor = System.Drawing.Color.White;
-            this.koriBT.Image = global::kahvio.Properties.Resources.picnic_basket;
-            this.koriBT.Location = new System.Drawing.Point(9, 280);
-            this.koriBT.Name = "koriBT";
-            this.koriBT.Size = new System.Drawing.Size(126, 42);
-            this.koriBT.TabIndex = 8;
-            this.koriBT.Text = "Kori";
-            this.koriBT.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
-            this.koriBT.UseVisualStyleBackColor = true;
-            this.koriBT.Click += new System.EventHandler(this.koriBT_Click);
-            // 
             // panel4
             // 
             this.panel4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
@@ -120,21 +107,6 @@
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(10, 40);
             this.panel4.TabIndex = 5;
-            // 
-            // herkutBT
-            // 
-            this.herkutBT.FlatAppearance.BorderSize = 0;
-            this.herkutBT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.herkutBT.ForeColor = System.Drawing.Color.White;
-            this.herkutBT.Image = global::kahvio.Properties.Resources.desserts;
-            this.herkutBT.Location = new System.Drawing.Point(9, 232);
-            this.herkutBT.Name = "herkutBT";
-            this.herkutBT.Size = new System.Drawing.Size(126, 42);
-            this.herkutBT.TabIndex = 6;
-            this.herkutBT.Text = "Herkut";
-            this.herkutBT.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
-            this.herkutBT.UseVisualStyleBackColor = true;
-            this.herkutBT.Click += new System.EventHandler(this.herkutBT_Click);
             // 
             // panel3
             // 
@@ -144,21 +116,6 @@
             this.panel3.Size = new System.Drawing.Size(10, 40);
             this.panel3.TabIndex = 3;
             // 
-            // juomatBT
-            // 
-            this.juomatBT.FlatAppearance.BorderSize = 0;
-            this.juomatBT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.juomatBT.ForeColor = System.Drawing.Color.White;
-            this.juomatBT.Image = global::kahvio.Properties.Resources.coffee;
-            this.juomatBT.Location = new System.Drawing.Point(9, 188);
-            this.juomatBT.Name = "juomatBT";
-            this.juomatBT.Size = new System.Drawing.Size(126, 42);
-            this.juomatBT.TabIndex = 4;
-            this.juomatBT.Text = "Juomat";
-            this.juomatBT.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
-            this.juomatBT.UseVisualStyleBackColor = true;
-            this.juomatBT.Click += new System.EventHandler(this.juomatBT_Click);
-            // 
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
@@ -167,21 +124,6 @@
             this.panel2.Size = new System.Drawing.Size(10, 40);
             this.panel2.TabIndex = 1;
             // 
-            // ruoatBT
-            // 
-            this.ruoatBT.FlatAppearance.BorderSize = 0;
-            this.ruoatBT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.ruoatBT.ForeColor = System.Drawing.Color.White;
-            this.ruoatBT.Image = global::kahvio.Properties.Resources.cutlery;
-            this.ruoatBT.Location = new System.Drawing.Point(9, 139);
-            this.ruoatBT.Name = "ruoatBT";
-            this.ruoatBT.Size = new System.Drawing.Size(126, 42);
-            this.ruoatBT.TabIndex = 2;
-            this.ruoatBT.Text = "Ruoat";
-            this.ruoatBT.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
-            this.ruoatBT.UseVisualStyleBackColor = true;
-            this.ruoatBT.Click += new System.EventHandler(this.ruoatBT_Click);
-            // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
@@ -189,21 +131,6 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(10, 40);
             this.panel1.TabIndex = 0;
-            // 
-            // meistaBT
-            // 
-            this.meistaBT.FlatAppearance.BorderSize = 0;
-            this.meistaBT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.meistaBT.ForeColor = System.Drawing.Color.White;
-            this.meistaBT.Image = global::kahvio.Properties.Resources.info;
-            this.meistaBT.Location = new System.Drawing.Point(9, 89);
-            this.meistaBT.Name = "meistaBT";
-            this.meistaBT.Size = new System.Drawing.Size(126, 42);
-            this.meistaBT.TabIndex = 0;
-            this.meistaBT.Text = " Meistä";
-            this.meistaBT.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
-            this.meistaBT.UseVisualStyleBackColor = true;
-            this.meistaBT.Click += new System.EventHandler(this.meistaBT_Click);
             // 
             // YlaPL
             // 
@@ -215,17 +142,6 @@
             this.YlaPL.Name = "YlaPL";
             this.YlaPL.Size = new System.Drawing.Size(419, 40);
             this.YlaPL.TabIndex = 1;
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.ErrorImage = null;
-            this.pictureBox1.Image = global::kahvio.Properties.Resources.cook_hat;
-            this.pictureBox1.InitialImage = null;
-            this.pictureBox1.Location = new System.Drawing.Point(131, 0);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(73, 40);
-            this.pictureBox1.TabIndex = 1;
-            this.pictureBox1.TabStop = false;
             // 
             // label1
             // 
@@ -437,6 +353,104 @@
             this.label14.TabIndex = 0;
             this.label14.Text = "Verkkokauppa avautuu myöhemmin";
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.ErrorImage = null;
+            this.pictureBox1.Image = global::kahvio.Properties.Resources.cook_hat;
+            this.pictureBox1.InitialImage = null;
+            this.pictureBox1.Location = new System.Drawing.Point(131, 0);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(73, 40);
+            this.pictureBox1.TabIndex = 1;
+            this.pictureBox1.TabStop = false;
+            // 
+            // exitBT
+            // 
+            this.exitBT.FlatAppearance.BorderSize = 0;
+            this.exitBT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.exitBT.Image = global::kahvio.Properties.Resources.Red_dot;
+            this.exitBT.Location = new System.Drawing.Point(9, 13);
+            this.exitBT.Name = "exitBT";
+            this.exitBT.Size = new System.Drawing.Size(24, 24);
+            this.exitBT.TabIndex = 9;
+            this.exitBT.UseVisualStyleBackColor = true;
+            this.exitBT.Click += new System.EventHandler(this.exitBT_Click);
+            // 
+            // koriBT
+            // 
+            this.koriBT.FlatAppearance.BorderSize = 0;
+            this.koriBT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.koriBT.ForeColor = System.Drawing.Color.White;
+            this.koriBT.Image = global::kahvio.Properties.Resources.picnic_basket;
+            this.koriBT.Location = new System.Drawing.Point(9, 280);
+            this.koriBT.Name = "koriBT";
+            this.koriBT.Size = new System.Drawing.Size(126, 42);
+            this.koriBT.TabIndex = 8;
+            this.koriBT.Text = "Kori";
+            this.koriBT.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
+            this.koriBT.UseVisualStyleBackColor = true;
+            this.koriBT.Click += new System.EventHandler(this.koriBT_Click);
+            // 
+            // herkutBT
+            // 
+            this.herkutBT.FlatAppearance.BorderSize = 0;
+            this.herkutBT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.herkutBT.ForeColor = System.Drawing.Color.White;
+            this.herkutBT.Image = global::kahvio.Properties.Resources.desserts;
+            this.herkutBT.Location = new System.Drawing.Point(9, 232);
+            this.herkutBT.Name = "herkutBT";
+            this.herkutBT.Size = new System.Drawing.Size(126, 42);
+            this.herkutBT.TabIndex = 6;
+            this.herkutBT.Text = "Herkut";
+            this.herkutBT.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
+            this.herkutBT.UseVisualStyleBackColor = true;
+            this.herkutBT.Click += new System.EventHandler(this.herkutBT_Click);
+            // 
+            // juomatBT
+            // 
+            this.juomatBT.FlatAppearance.BorderSize = 0;
+            this.juomatBT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.juomatBT.ForeColor = System.Drawing.Color.White;
+            this.juomatBT.Image = global::kahvio.Properties.Resources.coffee;
+            this.juomatBT.Location = new System.Drawing.Point(9, 188);
+            this.juomatBT.Name = "juomatBT";
+            this.juomatBT.Size = new System.Drawing.Size(126, 42);
+            this.juomatBT.TabIndex = 4;
+            this.juomatBT.Text = "Juomat";
+            this.juomatBT.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
+            this.juomatBT.UseVisualStyleBackColor = true;
+            this.juomatBT.Click += new System.EventHandler(this.juomatBT_Click);
+            // 
+            // ruoatBT
+            // 
+            this.ruoatBT.FlatAppearance.BorderSize = 0;
+            this.ruoatBT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.ruoatBT.ForeColor = System.Drawing.Color.White;
+            this.ruoatBT.Image = global::kahvio.Properties.Resources.cutlery;
+            this.ruoatBT.Location = new System.Drawing.Point(9, 139);
+            this.ruoatBT.Name = "ruoatBT";
+            this.ruoatBT.Size = new System.Drawing.Size(126, 42);
+            this.ruoatBT.TabIndex = 2;
+            this.ruoatBT.Text = "Ruoat";
+            this.ruoatBT.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
+            this.ruoatBT.UseVisualStyleBackColor = true;
+            this.ruoatBT.Click += new System.EventHandler(this.ruoatBT_Click);
+            // 
+            // meistaBT
+            // 
+            this.meistaBT.FlatAppearance.BorderSize = 0;
+            this.meistaBT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.meistaBT.ForeColor = System.Drawing.Color.White;
+            this.meistaBT.Image = global::kahvio.Properties.Resources.info;
+            this.meistaBT.Location = new System.Drawing.Point(9, 89);
+            this.meistaBT.Name = "meistaBT";
+            this.meistaBT.Size = new System.Drawing.Size(126, 42);
+            this.meistaBT.TabIndex = 0;
+            this.meistaBT.Text = " Meistä";
+            this.meistaBT.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
+            this.meistaBT.UseVisualStyleBackColor = true;
+            this.meistaBT.Click += new System.EventHandler(this.meistaBT_Click);
+            // 
             // RuokalistaForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -457,7 +471,6 @@
             this.VasenPL.ResumeLayout(false);
             this.YlaPL.ResumeLayout(false);
             this.YlaPL.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.meistaPL.ResumeLayout(false);
             this.meistaPL.PerformLayout();
             this.ruoatPL.ResumeLayout(false);
@@ -468,6 +481,7 @@
             this.herkutPL.PerformLayout();
             this.koriPL.ResumeLayout(false);
             this.koriPL.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -507,6 +521,7 @@
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.Button exitBT;
     }
 }
 

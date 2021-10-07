@@ -82,5 +82,10 @@ namespace kahvio
             koriPL.Visible = true;
 
         }
+
+        private void exitBT_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
